@@ -1,5 +1,7 @@
 # Bioinformatics Course
 
-A repository that provides discussion board for Bioinformatics Courses
+A repository that demonstrates how to use git to create reusable data analysis workflows.
 
-1. Budapest: Elixir 2025
+
+
+
